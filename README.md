@@ -1,4 +1,4 @@
-## Exp 8: Reproducing an Image Using Prompts for Image Generation
+# Exp 8: Reproducing an Image Using Prompts for Image Generation
 
 # Date : 27/10/25
 # Reg. No. 212223230162
